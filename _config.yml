@@ -1,0 +1,12 @@
+title: Space Gravity
+baseurl: "/SpaceGravity-Site"
+
+github_username: josejboon
+author: josejboon
+email: josejboon@gmail.com
+
+theme: minima
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
